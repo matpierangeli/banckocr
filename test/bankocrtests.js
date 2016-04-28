@@ -1,5 +1,5 @@
 var assert = require('chai').assert;
-var ocr = require('../bankocr.js');
+var ocr = require('../lib/bankocr.js');
 
 describe('BanckOCR', function() {
   describe('parse', function () {

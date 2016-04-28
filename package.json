@@ -1,0 +1,25 @@
+{
+  "name": "bankocrkata",
+  "description": "BankOCR kata",
+  "version": "0.0.1",
+  "author": "Matteo Pierangeli <mat.pierangeli@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matpierangeli/bankocr.git"
+  },
+  "keywords": [
+    "kata",
+    "bankocr"
+  ],
+  "dependencies": {
+    "mocha": "~2.4.5",
+    "chai": "~3.5.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": ">= 0.10.x",
+    "npm": "2.2.x"
+  }
+}
